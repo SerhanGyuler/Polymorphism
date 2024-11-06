@@ -9,6 +9,7 @@
         {
             Side = 4;
         }
+        // Class is virtual so its overrideable
 
         public override double Area()
         {
