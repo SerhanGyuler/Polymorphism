@@ -6,7 +6,7 @@ namespace Polymorphism
         // Class is virtual so its overrideable
         public virtual double Area()
         {
-            return 112;
+            return 0;
         }
     }
 }
